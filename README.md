@@ -14,8 +14,8 @@ Open the `index.html` inside each folder (`q1/`, `q2/`, `q3/`) in a desktop brow
 | Q3 `q3/` | `generateNumbers()` builds an ordered list "The number is 1" to "The number is 5" | `for` loop, `createElement`, `appendChild`, `replaceChildren()` |
 
 ## Screenshots
-**Q1:** ![before](screenshots/q1_before.png) ![after](screenshots/q1_after.png)
+**Q1:** ![before](bic21203-lab4a-javascript/screenshots/q1_before.png) ![after](bic21203-lab4a-javascript/screenshots/q1_after.png)
 
-**Q2:** ![5](screenshots/q2_5.png) ![10](screenshots/q2_10.png) ![15](screenshots/q2_15.png) ![abc](screenshots/q2_abc.png) ![empty](screenshots/q2_empty.png)
+**Q2:** ![5](bic21203-lab4a-javascript/screenshots/q2_5.png) ![10](bic21203-lab4a-javascript/screenshots/q2_10.png) ![15](bic21203-lab4a-javascript/screenshots/q2_15.png) ![abc](bic21203-lab4a-javascript/screenshots/q2_abc.png) ![empty](bic21203-lab4a-javascript/screenshots/q2_empty.png)
 
-**Q3:** ![once](screenshots/q3_once.png) ![repeated](screenshots/q3_repeated.png)
+**Q3:** ![once](bic21203-lab4a-javascript/screenshots/q3_once.png) ![repeated](bic21203-lab4a-javascript/screenshots/q3_repeated.png)
